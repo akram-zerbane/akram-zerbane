@@ -269,8 +269,7 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=akram-zerbane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=14b8a6&text_color=c9d1d9&ring_color=22d3ee&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akram-zerbane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akram-zerbane&exclude_repo=chat-app,zerbane.akram&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Top languages" />
 
 <br/>
 
@@ -278,7 +277,6 @@ flowchart LR
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akram-zerbane&bg_color=0d1117&color=22d3ee&line=14b8a6&point=ffffff&area=true&area_color=22d3ee&hide_border=true" alt="Activity graph" />
 
 </div>
 
