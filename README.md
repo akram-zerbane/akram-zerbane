@@ -15,7 +15,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/akram-zerbane-61708936a/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/akram-zerbane?tab=repositories">
